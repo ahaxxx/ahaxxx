@@ -7,8 +7,7 @@
 - :ram: Founder the Nuco.Tech
 - :meat_on_bone: Meat lover
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenithNUC&layout=compact)](https://github.com/ZenithNUC/github-readme-stats)
-<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenithNUC&layout=compact)]
 **ZenithNUC/ZenithNUC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
