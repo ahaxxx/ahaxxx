@@ -4,9 +4,9 @@
 - :ram: Founder the Nuco.Tech
 - :meat_on_bone: Meat lover
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=ZenithNUC&show)
+![Github stats](https://github-readme-stats.vercel.app/api?username=zenithnuc&theme=highcontrast&show_icons=true&count_private=true)
 
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenithNUC&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=zenithnuc&layout=compact)
