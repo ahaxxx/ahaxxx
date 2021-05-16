@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - :rocket: Coded in DF Express
-- :ram: Founder the Nuco.Tech
+- :ram: Founder of Nuco.Tech
 - :meat_on_bone: Meat lover
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=zenithnuc&show_icons=true&count_private=true)
