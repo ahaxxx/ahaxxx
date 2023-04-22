@@ -2,7 +2,7 @@
 
 - 🚀 Coded in DF Express
 - 👨‍🎓 Graduated from NUC
-- 🏫 Master of UCAS
+- 🏫 Postgraduate of UCAS
 - 🍖 Meat lover
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=zenithnuc&show_icons=true&count_private=true)
